@@ -1,0 +1,3 @@
+mv 0.3.1/* .
+python3 /usr/share/java-utils/pom_editor.py pom_remove_plugin :animal-sniffer-maven-plugin
+python3 /usr/share/java-utils/mvn_alias.py : org.sonatype.plugins:
