@@ -4,7 +4,7 @@
 #
 Name     : jdk-sisu-mojos
 Version  : 1
-Release  : 1
+Release  : 2
 URL      : http://git.eclipse.org/c/sisu/org.eclipse.sisu.mojos.git/snapshot/releases/0.3.1.tar.bz2
 Source0  : http://git.eclipse.org/c/sisu/org.eclipse.sisu.mojos.git/snapshot/releases/0.3.1.tar.bz2
 Summary  : No detailed summary available
